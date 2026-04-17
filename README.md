@@ -51,10 +51,12 @@ http://<monitor-vm-ip>:5000
 ## Screenshots
 
 ### Flask Dashboard
-[screenshot here]
+<img width="754" height="306" alt="Screenshot 2026-04-17 at 12 44 42 PM" src="https://github.com/user-attachments/assets/15f44829-a2f0-4596-9ff7-73d239bc9e8a" />
+
 
 ### Grafana Dashboard
-[screenshot here]
+<img width="1399" height="818" alt="Screenshot 2026-04-17 at 12 46 20 PM" src="https://github.com/user-attachments/assets/70f97973-e163-4431-9f0b-3e2dfe588fc3" />
+
 
 ## Alerts
 Email alerts are triggered when:
